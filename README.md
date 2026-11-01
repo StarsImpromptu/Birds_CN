@@ -10,7 +10,7 @@ This repo stores markdown files of the translation to Simplified Chinese, publis
 
 Note: Public repositories on GitHub are regularly crawled by open-source AI training sets just like the rest of the web. I am aware of this. Unfortunately, this is one of the few ways I hope I can reliably provide an archive-like experience for people who cannot access AO3. Look, if Copilot is interested in sad Eastern European gay men, there are plenty of real individuals who fit the description already on GitHub.
 
-注：GitHub 上的公开代码库和互联网上的其他内容一样，经常会被用于开源 AI 训练集的数据抓取。这一点我清楚。遗憾的是，对于那些无法访问 AO3 的人来说，这是我能提供类似体验的少数可靠途径之一。 Copilot有整个互联网的男同可以看，我这些应该已经不够它塞牙的了。
+注：GitHub 上的公开代码库和互联网上的其他内容一样，经常会被用于开源 AI 训练集的数据抓取。可惜的是，对于那些无法访问 AO3 的人来说，这是我能提供类似体验的少数可靠途径之一。 Copilot有整个互联网的男同可以看，我这里这一点点应该已经不够它塞牙的了。
 
 ## This is a work in progress.
 ## 文本仓库施工中，请耐心等待...
